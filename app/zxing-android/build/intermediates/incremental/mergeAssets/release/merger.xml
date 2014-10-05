@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="D:\dev_android\demo\book4best\zxing-android\assets" >
+            <file
+                name="zxing/html-en/about1d.html"
+                path="D:\dev_android\demo\book4best\zxing-android\assets\zxing\html-en\about1d.html" />
+            <file
+                name="zxing/html-en/about2d.html"
+                path="D:\dev_android\demo\book4best\zxing-android\assets\zxing\html-en\about2d.html" />
+            <file
+                name="zxing/html-en/index.html"
+                path="D:\dev_android\demo\book4best\zxing-android\assets\zxing\html-en\index.html" />
+            <file
+                name="zxing/html-en/scanning.html"
+                path="D:\dev_android\demo\book4best\zxing-android\assets\zxing\html-en\scanning.html" />
+            <file
+                name="zxing/html-en/sharing.html"
+                path="D:\dev_android\demo\book4best\zxing-android\assets\zxing\html-en\sharing.html" />
+            <file
+                name="zxing/images/big-1d.png"
+                path="D:\dev_android\demo\book4best\zxing-android\assets\zxing\images\big-1d.png" />
+            <file
+                name="zxing/images/big-datamatrix.png"
+                path="D:\dev_android\demo\book4best\zxing-android\assets\zxing\images\big-datamatrix.png" />
+            <file
+                name="zxing/images/big-qr.png"
+                path="D:\dev_android\demo\book4best\zxing-android\assets\zxing\images\big-qr.png" />
+            <file
+                name="zxing/images/contact-results-screen.jpg"
+                path="D:\dev_android\demo\book4best\zxing-android\assets\zxing\images\contact-results-screen.jpg" />
+            <file
+                name="zxing/images/demo-no.png"
+                path="D:\dev_android\demo\book4best\zxing-android\assets\zxing\images\demo-no.png" />
+            <file
+                name="zxing/images/demo-yes.png"
+                path="D:\dev_android\demo\book4best\zxing-android\assets\zxing\images\demo-yes.png" />
+            <file
+                name="zxing/images/scan-example.png"
+                path="D:\dev_android\demo\book4best\zxing-android\assets\zxing\images\scan-example.png" />
+            <file
+                name="zxing/images/scan-from-phone.png"
+                path="D:\dev_android\demo\book4best\zxing-android\assets\zxing\images\scan-from-phone.png" />
+            <file
+                name="zxing/images/search-book-contents.jpg"
+                path="D:\dev_android\demo\book4best\zxing-android\assets\zxing\images\search-book-contents.jpg" />
+            <file
+                name="zxing/style.css"
+                path="D:\dev_android\demo\book4best\zxing-android\assets\zxing\style.css" />
+        </source>
+    </dataSet>
+    <dataSet config="release" >
+        <source path="D:\dev_android\demo\book4best\zxing-android\src\release\assets" />
+    </dataSet>
+
+</merger>

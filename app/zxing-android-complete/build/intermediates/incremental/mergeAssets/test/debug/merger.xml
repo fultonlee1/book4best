@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="debug" >
+        <source path="D:\dev_android\demo\book4best\zxing-android-complete\build\intermediates\bundles\debug\assets" >
+            <file
+                name="zxing/html/apache-license.txt"
+                path="D:\dev_android\demo\book4best\zxing-android-complete\build\intermediates\bundles\debug\assets\zxing\html\apache-license.txt" />
+            <file
+                name="zxing/html-de/about1d.html"
+                path="D:\dev_android\demo\book4best\zxing-android-complete\build\intermediates\bundles\debug\assets\zxing\html-de\about1d.html" />
+            <file
+                name="zxing/html-de/about2d.html"
+                path="D:\dev_android\demo\book4best\zxing-android-complete\build\intermediates\bundles\debug\assets\zxing\html-de\about2d.html" />
+            <file
+                name="zxing/html-de/index.html"
+                path="D:\dev_android\demo\book4best\zxing-android-complete\build\intermediates\bundles\debug\assets\zxing\html-de\index.html" />
+            <file
+                name="zxing/html-de/license.html"
+                path="D:\dev_android\demo\book4best\zxing-android-complete\build\intermediates\bundles\debug\assets\zxing\html-de\license.html" />
+            <file
+                name="zxing/html-de/scanning.html"
+                path="D:\dev_android\demo\book4best\zxing-android-complete\build\intermediates\bundles\debug\assets\zxing\html-de\scanning.html" />
+            <file
+                name="zxing/html-de/sharing.html"
+                path="D:\dev_android\demo\book4best\zxing-android-complete\build\intermediates\bundles\debug\assets\zxing\html-de\sharing.html" />
+            <file
+                name="zxing/html-de/whatsnew.html"
+                path="D:\dev_android\demo\book4best\zxing-android-complete\build\intermediates\bundles\debug\assets\zxing\html-de\whatsnew.html" />
+            <file
+                name="zxing/html-en/about1d.html"
+                path="D:\dev_android\demo\book4best\zxing-android-complete\build\intermediates\bundles\debug\assets\zxing\html-en\about1d.html" />
+            <file
+                name="zxing/html-en/about2d.html"
+                path="D:\dev_android\demo\book4best\zxing-android-complete\build\intermediates\bundles\debug\assets\zxing\html-en\about2d.html" />
+            <file
+                name="zxing/html-en/index.html"
+                path="D:\dev_android\demo\book4best\zxing-android-complete\build\intermediates\bundles\debug\assets\zxing\html-en\index.html" />
+            <file
+                name="zxing/html-en/license.html"
+                path="D:\dev_android\demo\book4best\zxing-android-complete\build\intermediates\bundles\debug\assets\zxing\html-en\license.html" />
+            <file
+                name="zxing/html-en/scanning.html"
+                path="D:\dev_android\demo\book4best\zxing-android-complete\build\intermediates\bundles\debug\assets\zxing\html-en\scanning.html" />
+            <file
+                name="zxing/html-en/sharing.html"
+                path="D:\dev_android\demo\book4best\zxing-android-complete\build\intermediates\bundles\debug\assets\zxing\html-en\sharing.html" />
+            <file
+                name="zxing/html-en/whatsnew.html"
+                path="D:\dev_android\demo\book4best\zxing-android-complete\build\intermediates\bundles\debug\assets\zxing\html-en\whatsnew.html" />
+            <file
+                name="zxing/html-es/about1d.html"
+                path="D:\dev_android\demo\book4best\zxing-android-complete\build\intermediates\bundles\debug\assets\zxing\html-es\about1d.html" />
+            <file
+                name="zxing/html-es/about2d.html"
+                path="D:\dev_android\demo\book4best\zxing-android-complete\build\intermediates\bundles\debug\assets\zxing\html-es\about2d.html" />
+            <file
+                name="zxing/html-es/index.html"
+                path="D:\dev_android\demo\book4best\zxing-android-complete\build\intermediates\bundles\debug\assets\zxing\html-es\index.html" />
+            <file
+                name="zxing/html-es/license.html"
+                path="D:\dev_android\demo\book4best\zxing-android-complete\build\intermediates\bundles\debug\assets\zxing\html-es\license.html" />
+            <file
+                name="zxing/html-es/scanning.html"
+                path="D:\dev_android\demo\book4best\zxing-android-complete\build\intermediates\bundles\debug\assets\zxing\html-es\scanning.html" />
+            <file
+                name="zxing/html-es/sharing.html"
+                path="D:\dev_android\demo\book4best\zxing-android-complete\build\intermediates\bundles\debug\assets\zxing\html-es\sharing.html" />
+            <file
+                name="zxing/html-es/whatsnew.html"
+                path="D:\dev_android\demo\book4best\zxing-android-complete\build\intermediates\bundles\debug\assets\zxing\html-es\whatsnew.html" />
+            <file
+                name="zxing/html-fr/about1d.html"
+                path="D:\dev_android\demo\book4best\zxing-android-complete\build\intermediates\bundles\debug\assets\zxing\html-fr\about1d.html" />
+            <file
+                name="zxing/html-fr/about2d.html"
+                path="D:\dev_android\demo\book4best\zxing-android-complete\build\intermediates\bundles\debug\assets\zxing\html-fr\about2d.html" />
+            <file
+                name="zxing/html-fr/index.html"
+                path="D:\dev_android\demo\book4best\zxing-android-complete\build\intermediates\bundles\debug\assets\zxing\html-fr\index.html" />
+            <file
+                name="zxing/html-fr/license.html"
+                path="D:\dev_android\demo\book4best\zxing-android-complete\build\intermediates\bundles\debug\assets\zxing\html-fr\license.html" />
+            <file
+                name="zxing/html-fr/scanning.html"
+                path="D:\dev_android\demo\book4best\zxing-android-complete\build\intermediates\bundles\debug\assets\zxing\html-fr\scanning.html" />
+            <file
+                name="zxing/html-fr/sharing.html"
+                path="D:\dev_android\demo\book4best\zxing-android-complete\build\intermediates\bundles\debug\assets\zxing\html-fr\sharing.html" />
+            <file
+                name="zxing/html-fr/whatsnew.html"
+                path="D:\dev_android\demo\book4best\zxing-android-complete\build\intermediates\bundles\debug\assets\zxing\html-fr\whatsnew.html" />
+            <file
+                name="zxing/html-it/about1d.html"
+                path="D:\dev_android\demo\book4best\zxing-android-complete\build\intermediates\bundles\debug\assets\zxing\html-it\about1d.html" />
+            <file
+                name="zxing/html-it/about2d.html"
+                path="D:\dev_android\demo\book4best\zxing-android-complete\build\intermediates\bundles\debug\assets\zxing\html-it\about2d.html" />
+            <file
+                name="zxing/html-it/index.html"
+                path="D:\dev_android\demo\book4best\zxing-android-complete\build\intermediates\bundles\debug\assets\zxing\html-it\index.html" />
+            <file
+                name="zxing/html-it/license.html"
+                path="D:\dev_android\demo\book4best\zxing-android-complete\build\intermediates\bundles\debug\assets\zxing\html-it\license.html" />
+            <file
+                name="zxing/html-it/scanning.html"
+                path="D:\dev_android\demo\book4best\zxing-android-complete\build\intermediates\bundles\debug\assets\zxing\html-it\scanning.html" />
+            <file
+                name="zxing/html-it/sharing.html"
+                path="D:\dev_android\demo\book4best\zxing-android-complete\build\intermediates\bundles\debug\assets\zxing\html-it\sharing.html" />
+            <file
+                name="zxing/html-it/whatsnew.html"
+                path="D:\dev_android\demo\book4best\zxing-android-complete\build\intermediates\bundles\debug\assets\zxing\html-it\whatsnew.html" />
+            <file
+                name="zxing/html-ja/about1d.html"
+                path="D:\dev_android\demo\book4best\zxing-android-complete\build\intermediates\bundles\debug\assets\zxing\html-ja\about1d.html" />
+            <file
+                name="zxing/html-ja/about2d.html"
+                path="D:\dev_android\demo\book4best\zxing-android-complete\build\intermediates\bundles\debug\assets\zxing\html-ja\about2d.html" />
+            <file
+                name="zxing/html-ja/index.html"
+                path="D:\dev_android\demo\book4best\zxing-android-complete\build\intermediates\bundles\debug\assets\zxing\html-ja\index.html" />
+            <file
+                name="zxing/html-ja/license.html"
+                path="D:\dev_android\demo\book4best\zxing-android-complete\build\intermediates\bundles\debug\assets\zxing\html-ja\license.html" />
+            <file
+                name="zxing/html-ja/scanning.html"
+                path="D:\dev_android\demo\book4best\zxing-android-complete\build\intermediates\bundles\debug\assets\zxing\html-ja\scanning.html" />
+            <file
+                name="zxing/html-ja/sharing.html"
+                path="D:\dev_android\demo\book4best\zxing-android-complete\build\intermediates\bundles\debug\assets\zxing\html-ja\sharing.html" />
+            <file
+                name="zxing/html-ja/whatsnew.html"
+                path="D:\dev_android\demo\book4best\zxing-android-complete\build\intermediates\bundles\debug\assets\zxing\html-ja\whatsnew.html" />
+            <file
+                name="zxing/html-ko/about1d.html"
+                path="D:\dev_android\demo\book4best\zxing-android-complete\build\intermediates\bundles\debug\assets\zxing\html-ko\about1d.html" />
+            <file
+                name="zxing/html-ko/about2d.html"
+                path="D:\dev_android\demo\book4best\zxing-android-complete\build\intermediates\bundles\debug\assets\zxing\html-ko\about2d.html" />
+            <file
+                name="zxing/html-ko/index.html"
+                path="D:\dev_android\demo\book4best\zxing-android-complete\build\intermediates\bundles\debug\assets\zxing\html-ko\index.html" />
+            <file
+                name="zxing/html-ko/license.html"
+                path="D:\dev_android\demo\book4best\zxing-android-complete\build\intermediates\bundles\debug\assets\zxing\html-ko\license.html" />
+            <file
+                name="zxing/html-ko/scanning.html"
+                path="D:\dev_android\demo\book4best\zxing-android-complete\build\intermediates\bundles\debug\assets\zxing\html-ko\scanning.html" />
+            <file
+                name="zxing/html-ko/sharing.html"
+                path="D:\dev_android\demo\book4best\zxing-android-complete\build\intermediates\bundles\debug\assets\zxing\html-ko\sharing.html" />
+            <file
+                name="zxing/html-ko/whatsnew.html"
+                path="D:\dev_android\demo\book4best\zxing-android-complete\build\intermediates\bundles\debug\assets\zxing\html-ko\whatsnew.html" />
+            <file
+                name="zxing/html-nl/about1d.html"
+                path="D:\dev_android\demo\book4best\zxing-android-complete\build\intermediates\bundles\debug\assets\zxing\html-nl\about1d.html" />
+            <file
+                name="zxing/html-nl/about2d.html"
+                path="D:\dev_android\demo\book4best\zxing-android-complete\build\intermediates\bundles\debug\assets\zxing\html-nl\about2d.html" />
+            <file
+                name="zxing/html-nl/index.html"
+                path="D:\dev_android\demo\book4best\zxing-android-complete\build\intermediates\bundles\debug\assets\zxing\html-nl\index.html" />
+            <file
+                name="zxing/html-nl/license.html"
+                path="D:\dev_android\demo\book4best\zxing-android-complete\build\intermediates\bundles\debug\assets\zxing\html-nl\license.html" />
+            <file
+                name="zxing/html-nl/scanning.html"
+                path="D:\dev_android\demo\book4best\zxing-android-complete\build\intermediates\bundles\debug\assets\zxing\html-nl\scanning.html" />
+            <file
+                name="zxing/html-nl/sharing.html"
+                path="D:\dev_android\demo\book4best\zxing-android-complete\build\intermediates\bundles\debug\assets\zxing\html-nl\sharing.html" />
+            <file
+                name="zxing/html-nl/whatsnew.html"
+                path="D:\dev_android\demo\book4best\zxing-android-complete\build\intermediates\bundles\debug\assets\zxing\html-nl\whatsnew.html" />
+            <file
+                name="zxing/html-pt/about1d.html"
+                path="D:\dev_android\demo\book4best\zxing-android-complete\build\intermediates\bundles\debug\assets\zxing\html-pt\about1d.html" />
+            <file
+                name="zxing/html-pt/about2d.html"
+                path="D:\dev_android\demo\book4best\zxing-android-complete\build\intermediates\bundles\debug\assets\zxing\html-pt\about2d.html" />
+            <file
+                name="zxing/html-pt/index.html"
+                path="D:\dev_android\demo\book4best\zxing-android-complete\build\intermediates\bundles\debug\assets\zxing\html-pt\index.html" />
+            <file
+                name="zxing/html-pt/license.html"
+                path="D:\dev_android\demo\book4best\zxing-android-complete\build\intermediates\bundles\debug\assets\zxing\html-pt\license.html" />
+            <file
+                name="zxing/html-pt/scanning.html"
+                path="D:\dev_android\demo\book4best\zxing-android-complete\build\intermediates\bundles\debug\assets\zxing\html-pt\scanning.html" />
+            <file
+                name="zxing/html-pt/sharing.html"
+                path="D:\dev_android\demo\book4best\zxing-android-complete\build\intermediates\bundles\debug\assets\zxing\html-pt\sharing.html" />
+            <file
+                name="zxing/html-pt/whatsnew.html"
+                path="D:\dev_android\demo\book4best\zxing-android-complete\build\intermediates\bundles\debug\assets\zxing\html-pt\whatsnew.html" />
+            <file
+                name="zxing/html-ru/about1d.html"
+                path="D:\dev_android\demo\book4best\zxing-android-complete\build\intermediates\bundles\debug\assets\zxing\html-ru\about1d.html" />
+            <file
+                name="zxing/html-ru/about2d.html"
+                path="D:\dev_android\demo\book4best\zxing-android-complete\build\intermediates\bundles\debug\assets\zxing\html-ru\about2d.html" />
+            <file
+                name="zxing/html-ru/index.html"
+                path="D:\dev_android\demo\book4best\zxing-android-complete\build\intermediates\bundles\debug\assets\zxing\html-ru\index.html" />
+            <file
+                name="zxing/html-ru/license.html"
+                path="D:\dev_android\demo\book4best\zxing-android-complete\build\intermediates\bundles\debug\assets\zxing\html-ru\license.html" />
+            <file
+                name="zxing/html-ru/scanning.html"
+                path="D:\dev_android\demo\book4best\zxing-android-complete\build\intermediates\bundles\debug\assets\zxing\html-ru\scanning.html" />
+            <file
+                name="zxing/html-ru/sharing.html"
+                path="D:\dev_android\demo\book4best\zxing-android-complete\build\intermediates\bundles\debug\assets\zxing\html-ru\sharing.html" />
+            <file
+                name="zxing/html-ru/whatsnew.html"
+                path="D:\dev_android\demo\book4best\zxing-android-complete\build\intermediates\bundles\debug\assets\zxing\html-ru\whatsnew.html" />
+            <file
+                name="zxing/html-zh-rCN/about1d.html"
+                path="D:\dev_android\demo\book4best\zxing-android-complete\build\intermediates\bundles\debug\assets\zxing\html-zh-rCN\about1d.html" />
+            <file
+                name="zxing/html-zh-rCN/about2d.html"
+                path="D:\dev_android\demo\book4best\zxing-android-complete\build\intermediates\bundles\debug\assets\zxing\html-zh-rCN\about2d.html" />
+            <file
+                name="zxing/html-zh-rCN/index.html"
+                path="D:\dev_android\demo\book4best\zxing-android-complete\build\intermediates\bundles\debug\assets\zxing\html-zh-rCN\index.html" />
+            <file
+                name="zxing/html-zh-rCN/license.html"
+                path="D:\dev_android\demo\book4best\zxing-android-complete\build\intermediates\bundles\debug\assets\zxing\html-zh-rCN\license.html" />
+            <file
+                name="zxing/html-zh-rCN/scanning.html"
+                path="D:\dev_android\demo\book4best\zxing-android-complete\build\intermediates\bundles\debug\assets\zxing\html-zh-rCN\scanning.html" />
+            <file
+                name="zxing/html-zh-rCN/sharing.html"
+                path="D:\dev_android\demo\book4best\zxing-android-complete\build\intermediates\bundles\debug\assets\zxing\html-zh-rCN\sharing.html" />
+            <file
+                name="zxing/html-zh-rCN/whatsnew.html"
+                path="D:\dev_android\demo\book4best\zxing-android-complete\build\intermediates\bundles\debug\assets\zxing\html-zh-rCN\whatsnew.html" />
+            <file
+                name="zxing/html-zh-rHK"
+                path="D:\dev_android\demo\book4best\zxing-android-complete\build\intermediates\bundles\debug\assets\zxing\html-zh-rHK" />
+            <file
+                name="zxing/html-zh-rTW/about1d.html"
+                path="D:\dev_android\demo\book4best\zxing-android-complete\build\intermediates\bundles\debug\assets\zxing\html-zh-rTW\about1d.html" />
+            <file
+                name="zxing/html-zh-rTW/about2d.html"
+                path="D:\dev_android\demo\book4best\zxing-android-complete\build\intermediates\bundles\debug\assets\zxing\html-zh-rTW\about2d.html" />
+            <file
+                name="zxing/html-zh-rTW/index.html"
+                path="D:\dev_android\demo\book4best\zxing-android-complete\build\intermediates\bundles\debug\assets\zxing\html-zh-rTW\index.html" />
+            <file
+                name="zxing/html-zh-rTW/license.html"
+                path="D:\dev_android\demo\book4best\zxing-android-complete\build\intermediates\bundles\debug\assets\zxing\html-zh-rTW\license.html" />
+            <file
+                name="zxing/html-zh-rTW/scanning.html"
+                path="D:\dev_android\demo\book4best\zxing-android-complete\build\intermediates\bundles\debug\assets\zxing\html-zh-rTW\scanning.html" />
+            <file
+                name="zxing/html-zh-rTW/sharing.html"
+                path="D:\dev_android\demo\book4best\zxing-android-complete\build\intermediates\bundles\debug\assets\zxing\html-zh-rTW\sharing.html" />
+            <file
+                name="zxing/html-zh-rTW/whatsnew.html"
+                path="D:\dev_android\demo\book4best\zxing-android-complete\build\intermediates\bundles\debug\assets\zxing\html-zh-rTW\whatsnew.html" />
+            <file
+                name="zxing/images/big-1d.png"
+                path="D:\dev_android\demo\book4best\zxing-android-complete\build\intermediates\bundles\debug\assets\zxing\images\big-1d.png" />
+            <file
+                name="zxing/images/big-aztec.png"
+                path="D:\dev_android\demo\book4best\zxing-android-complete\build\intermediates\bundles\debug\assets\zxing\images\big-aztec.png" />
+            <file
+                name="zxing/images/big-datamatrix.png"
+                path="D:\dev_android\demo\book4best\zxing-android-complete\build\intermediates\bundles\debug\assets\zxing\images\big-datamatrix.png" />
+            <file
+                name="zxing/images/big-pdf417.png"
+                path="D:\dev_android\demo\book4best\zxing-android-complete\build\intermediates\bundles\debug\assets\zxing\images\big-pdf417.png" />
+            <file
+                name="zxing/images/big-qr.png"
+                path="D:\dev_android\demo\book4best\zxing-android-complete\build\intermediates\bundles\debug\assets\zxing\images\big-qr.png" />
+            <file
+                name="zxing/images/contact-results-screen.jpg"
+                path="D:\dev_android\demo\book4best\zxing-android-complete\build\intermediates\bundles\debug\assets\zxing\images\contact-results-screen.jpg" />
+            <file
+                name="zxing/images/demo-no.png"
+                path="D:\dev_android\demo\book4best\zxing-android-complete\build\intermediates\bundles\debug\assets\zxing\images\demo-no.png" />
+            <file
+                name="zxing/images/demo-yes.png"
+                path="D:\dev_android\demo\book4best\zxing-android-complete\build\intermediates\bundles\debug\assets\zxing\images\demo-yes.png" />
+            <file
+                name="zxing/images/scan-example.png"
+                path="D:\dev_android\demo\book4best\zxing-android-complete\build\intermediates\bundles\debug\assets\zxing\images\scan-example.png" />
+            <file
+                name="zxing/images/scan-from-phone.png"
+                path="D:\dev_android\demo\book4best\zxing-android-complete\build\intermediates\bundles\debug\assets\zxing\images\scan-from-phone.png" />
+            <file
+                name="zxing/images/search-book-contents.jpg"
+                path="D:\dev_android\demo\book4best\zxing-android-complete\build\intermediates\bundles\debug\assets\zxing\images\search-book-contents.jpg" />
+            <file
+                name="zxing/style.css"
+                path="D:\dev_android\demo\book4best\zxing-android-complete\build\intermediates\bundles\debug\assets\zxing\style.css" />
+        </source>
+    </dataSet>
+    <dataSet config="main" >
+        <source path="D:\dev_android\demo\book4best\zxing-android-complete\src\androidTest\assets" />
+    </dataSet>
+
+</merger>

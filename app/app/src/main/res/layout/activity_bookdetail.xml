@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:fbutton="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/activity_bookdetail_ivBook"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp" />
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:background="@drawable/linearlayout_border"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="90dp"
+            android:layout_height="match_parent"
+            android:background="@drawable/linearlayout_border"
+            android:gravity="center_vertical|center_horizontal"
+            android:text="书名"
+            android:textSize="20sp"
+            android:textColor="@color/lightblue" />
+
+        <TextView
+            android:id="@+id/activity_bookdetail_tvTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical|center_horizontal" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:background="@drawable/linearlayout_border"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="90dp"
+            android:layout_height="match_parent"
+            android:background="@drawable/linearlayout_border"
+            android:gravity="center_vertical|center_horizontal"
+            android:text="副标题"
+            android:textSize="20sp"
+            android:textColor="@color/lightblue" />
+
+        <TextView
+            android:id="@+id/activity_bookdetail_tvSubtitle"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical|center_horizontal" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:background="@drawable/linearlayout_border"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="90dp"
+            android:layout_height="match_parent"
+            android:background="@drawable/linearlayout_border"
+            android:gravity="center_vertical|center_horizontal"
+            android:text="作者"
+            android:textSize="20sp"
+            android:textColor="@color/lightblue" />
+
+        <TextView
+            android:id="@+id/activity_bookdetail_tvAuthor"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical|center_horizontal" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:background="@drawable/linearlayout_border"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="90dp"
+            android:layout_height="match_parent"
+            android:background="@drawable/linearlayout_border"
+            android:gravity="center_vertical|center_horizontal"
+            android:text="翻译人"
+            android:textSize="20sp"
+            android:textColor="@color/lightblue" />
+
+        <TextView
+            android:id="@+id/activity_bookdetail_tvTranslator"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical|center_horizontal" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:background="@drawable/linearlayout_border"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="90dp"
+            android:layout_height="match_parent"
+            android:background="@drawable/linearlayout_border"
+            android:gravity="center_vertical|center_horizontal"
+            android:text="出版社"
+            android:textSize="20sp"
+            android:textColor="@color/lightblue" />
+
+        <TextView
+            android:id="@+id/activity_bookdetail_tvPublisher"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical|center_horizontal" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:background="@drawable/linearlayout_border"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="90dp"
+            android:layout_height="match_parent"
+            android:background="@drawable/linearlayout_border"
+            android:gravity="center_vertical|center_horizontal"
+            android:text="出版日期"
+            android:textSize="20sp"
+            android:textColor="@color/lightblue" />
+
+        <TextView
+            android:id="@+id/activity_bookdetail_tvPubDate"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical|center_horizontal" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:background="@drawable/linearlayout_border"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="90dp"
+            android:layout_height="match_parent"
+            android:background="@drawable/linearlayout_border"
+            android:gravity="center_vertical|center_horizontal"
+            android:text="ISBN"
+            android:textSize="20sp"
+            android:textColor="@color/lightblue" />
+
+        <TextView
+            android:id="@+id/activity_bookdetail_tvISBN"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical|center_horizontal" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:background="@drawable/linearlayout_border"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="90dp"
+            android:layout_height="match_parent"
+            android:background="@drawable/linearlayout_border"
+            android:gravity="center_vertical|center_horizontal"
+            android:text="捐书人"
+            android:textSize="20sp"
+            android:textColor="@color/lightblue" />
+
+        <TextView
+            android:id="@+id/activity_bookdetail_tvDonater"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical|center_horizontal" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:background="@drawable/linearlayout_border"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="90dp"
+            android:layout_height="match_parent"
+            android:background="@drawable/linearlayout_border"
+            android:gravity="center_vertical|center_horizontal"
+            android:text="书本状态"
+            android:textSize="20sp"
+            android:textColor="@color/lightblue" />
+
+        <TextView
+            android:id="@+id/activity_bookdetail_tvBookStatus"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical|center_horizontal" />
+    </LinearLayout>
+
+    <info.hoang8f.widget.FButton
+        android:id="@+id/activity_bookdetail_btnBorrow"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="25dp"
+        android:layout_marginRight="25dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal|center_vertical"
+        android:text="我要借书"
+        android:textColor="@android:color/white"
+        fbutton:buttonColor="@color/fbutton_color_turquoise"
+        fbutton:shadowEnabled="true" />
+
+</LinearLayout>

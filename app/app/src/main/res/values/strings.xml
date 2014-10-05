@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Book4Best</string>
+    <string name="title_search">查询</string>
+    <string name="title_donatebook">捐书</string>
+    <string name="title_backbook">还书</string>
+    <string name="title_feedback">反馈</string>
+    <string name="title_update">更新</string>
+    <string name="title_setting">设置</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+    <string name="action_settings">Settings</string>
+
+</resources>

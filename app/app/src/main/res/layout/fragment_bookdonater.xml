@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:fbutton="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="10dp"
+    android:orientation="vertical">
+
+    <info.hoang8f.widget.FButton
+        android:id="@+id/fragment_bookdonater_btnScan"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="扫  码"
+        android:textColor="@android:color/white"
+        fbutton:shadowEnabled="true"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <EditText
+            android:id="@+id/fragment_bookdonater_etISBN"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:ems="10"
+            android:gravity="center_horizontal|center_vertical"
+            android:hint="请输入ISBN码"
+            android:inputType="number"
+            android:text="9787115221704" />
+
+        <info.hoang8f.widget.FButton
+            android:id="@+id/fragment_bookdonater_btnSearch"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:gravity="center_horizontal|center_vertical"
+            android:text="搜索"
+            android:textColor="@android:color/white"
+            fbutton:buttonColor="@color/fbutton_color_turquoise"
+            fbutton:shadowEnabled="true" />
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/fragment_bookdonater_ivBook"
+        android:layout_margin="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <LinearLayout
+        android:id="@+id/fragment_bookdonater_linearLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="5dp"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:background="@drawable/linearlayout_border"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="70dp"
+                android:layout_height="match_parent"
+                android:background="@drawable/linearlayout_border"
+                android:gravity="center_vertical|center_horizontal"
+                android:text="书名"
+                android:textColor="@color/lightblue" />
+
+            <TextView
+                android:id="@+id/fragment_bookdonater_tvTitle"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:gravity="center_vertical|center_horizontal" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:background="@drawable/linearlayout_border"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="70dp"
+                android:layout_height="match_parent"
+                android:background="@drawable/linearlayout_border"
+                android:gravity="center_vertical|center_horizontal"
+                android:text="副标题"
+                android:textColor="@color/lightblue" />
+
+            <TextView
+                android:id="@+id/fragment_bookdonater_tvSubtitle"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:gravity="center_vertical|center_horizontal" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:background="@drawable/linearlayout_border"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="70dp"
+                android:layout_height="match_parent"
+                android:background="@drawable/linearlayout_border"
+                android:gravity="center_vertical|center_horizontal"
+                android:text="作者"
+                android:textColor="@color/lightblue" />
+
+            <TextView
+                android:id="@+id/fragment_bookdonater_tvAuthor"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:gravity="center_vertical|center_horizontal" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:background="@drawable/linearlayout_border"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="70dp"
+                android:layout_height="match_parent"
+                android:background="@drawable/linearlayout_border"
+                android:gravity="center_vertical|center_horizontal"
+                android:text="翻译人"
+                android:textColor="@color/lightblue" />
+
+            <TextView
+                android:id="@+id/fragment_bookdonater_tvTranslator"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:gravity="center_vertical|center_horizontal" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:background="@drawable/linearlayout_border"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="70dp"
+                android:layout_height="match_parent"
+                android:background="@drawable/linearlayout_border"
+                android:gravity="center_vertical|center_horizontal"
+                android:text="出版社"
+                android:textColor="@color/lightblue" />
+
+            <TextView
+                android:id="@+id/fragment_bookdonater_tvPublisher"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:gravity="center_vertical|center_horizontal" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:background="@drawable/linearlayout_border"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="70dp"
+                android:layout_height="match_parent"
+                android:background="@drawable/linearlayout_border"
+                android:gravity="center_vertical|center_horizontal"
+                android:text="出版日期"
+                android:textColor="@color/lightblue" />
+
+            <TextView
+                android:id="@+id/fragment_bookdonater_tvPubDate"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:gravity="center_vertical|center_horizontal" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:background="@drawable/linearlayout_border"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="70dp"
+                android:layout_height="match_parent"
+                android:background="@drawable/linearlayout_border"
+                android:gravity="center_vertical|center_horizontal"
+                android:text="ISBN"
+                android:textColor="@color/lightblue" />
+
+            <TextView
+                android:id="@+id/fragment_bookdonater_tvISBN"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:gravity="center_vertical|center_horizontal" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:background="@drawable/linearlayout_border"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="70dp"
+                android:layout_height="match_parent"
+                android:background="@drawable/linearlayout_border"
+                android:gravity="center_vertical|center_horizontal"
+                android:text="捐书人"
+                android:textColor="@color/lightblue" />
+
+            <TextView
+                android:id="@+id/fragment_bookdonater_tvDonater"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:gravity="center_vertical|center_horizontal" />
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+
+</LinearLayout>
+
